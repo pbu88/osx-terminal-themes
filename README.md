@@ -9,6 +9,4 @@ text selection color.
 
 This is the result:
 
-https://github.com/tomislav/osx-terminal.app-colors-solarized
-
-![alt tag](https://raw.github.com/pbu88/osx-terminal-themes/screenshots/terminal-screenshot.png)
+![alt tag](https://raw.githubusercontent.com/pbu88/osx-terminal-themes/master/screenshots/terminal-screenshot.png)
